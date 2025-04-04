@@ -1,3 +1,4 @@
+0.0.0.0 kwai.com
 0.0.0.0	www.kwai.com
 0.0.0.0	p2-kimg.kwai.net
 0.0.0.0	aws-br-pic.kwai.net

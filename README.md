@@ -1,4 +1,4 @@
-pihole-block-kwai
+#pihole-block-kwai
 Kwai block list for Pi-hole
 
 This will completely block all kwai related domains and is not just for ads.

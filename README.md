@@ -1,4 +1,4 @@
-pihole-block-kwai
+# pihole-block-kwai
 
 Kwai block list for Pi-hole
 
